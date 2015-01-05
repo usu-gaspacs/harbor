@@ -1,0 +1,13 @@
+/**
+@mainpage GASPACS Harbor Processing
+Mod_Date:2014-Nov-15
+
+@section introsec Introduction
+
+This software provides simple data filtering and reduction for the raw
+data from Weber State Harbor balloon flights.  The raw data files are
+in CSV format.  These programs convert the files to text columns, suitable
+for gnuplot and other processing, and has options for eliminating bad data
+and averaging values over some period of time.
+
+*/
